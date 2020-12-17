@@ -1,3 +1,3 @@
 # CV
 Currículo 
-Vlw galero
+Um cv simples usando Bootstrap e JS 
